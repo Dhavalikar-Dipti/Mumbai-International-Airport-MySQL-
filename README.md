@@ -6,15 +6,15 @@ This project contains:
    The data in this file is dummy and created by me. The dataset consists of all the informationof flight passengers boarding flights from Mumbai Airport.
    The database is named BOM.
    The database consists of 5 tables namely
-   TERMINAL(the terminals of the airport),
-   AIRLINE(the airline information),
-   FLIGHT(all the information about the flight including the id, timings),
-   PASSENGER(all the general informtaion about the passenger) &
-   TICKET(all the information about the journey like the class, date, passportno of passengers).
+   - TERMINAL(the terminals of the airport),
+   - AIRLINE(the airline information),
+   - FLIGHT(all the information about the flight including the id, timings),
+   - PASSENGER(all the general informtaion about the passenger) &
+   - TICKET(all the information about the journey like the class, date, passportno of passengers).
    All these tables are joined using SQL joins to form a schema, resulting in a dataset.
 
 
-
+-----
 
 
 
